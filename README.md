@@ -3,7 +3,7 @@
   # HartiChan's Github
 
   \
-  ![](https://github-readme-stats-hartichan.vercel.app/api/top-langs/?username=HartiChan&layout=compact&hide=c%2B%2B&theme=dracula&langs_count=10)
+  ![](https://github-readme-stats-hartichan.vercel.app/api/top-langs/?username=HartiChan&layout=compact&theme=dracula&langs_count=10)
  </div>
 <!--
 **HartiChan/HartiChan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
