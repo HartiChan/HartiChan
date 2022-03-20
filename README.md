@@ -5,7 +5,7 @@
   \
   ![Top Langs](https://github-readme-stats-hartichan.vercel.app/api/top-langs/?username=HartiChan&layout=compact&theme=aura&langs_count=10)
  
-  ![Anurag's GitHub stats](https://github-readme-stats-hartichan.vercel.app/api?username=HartiChan&show_icons=true&theme=aura&count_private=true&include_all_commits=true&line_height=28.5)
+  ![Anurag's GitHub stats](https://github-readme-stats-hartichan.vercel.app/api?username=HartiChan&show_icons=true&theme=aura&count_private=true&include_all_commits=true&line_height=28.5&hide=javascript,html,css,php)
  </div>
 <!--
 **HartiChan/HartiChan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
